@@ -1,1 +1,2 @@
-echo "Hello Remote"
+echo "Hello Remote"> hello.txt
+echo "Update from local master" >> hello.txt
